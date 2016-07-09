@@ -1,2 +1,2 @@
-# mywebsit.github.io
+# mywebsite.github.io
 This is my first website
